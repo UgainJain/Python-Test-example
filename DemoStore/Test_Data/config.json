@@ -1,0 +1,39 @@
+{
+  "browser": "chrome",
+    "headless": false,
+  "implicit" : 30,
+  "signup_data": {
+    "username": "new_user",
+    "password": "new_password"
+  },
+  "login_data":
+    {
+      "username": "Mpho",
+      "password": "1234",
+      "result": "success"
+
+    }
+  ,
+  "invalid_data":
+
+    {
+      "username": "Mpho",
+      "password": "invalid_password",
+      "result": "failed"
+    }
+  ,
+  "User_Details":
+  {
+    "name": "Mpho",
+    "country": "USA",
+    "city": "MiaMi",
+    "card": 1234455665667,
+    "month": "April",
+    "year": 2025
+  },
+  "url": "https://www.demoblaze.com/",
+  "signupAlert": "SignUp successful",
+  "login_alert": "Wrong password.",
+  "cart_alert": "Product added"
+
+}

@@ -1,0 +1,22 @@
+2024-08-01 15:59:19,711 [INFO] Starting signup test
+2024-08-01 16:02:32,680 [INFO] Starting signup test
+2024-08-01 19:27:01,060 [INFO] Starting signup test
+2024-08-01 19:27:06,984 [INFO] Starting login test
+2024-08-01 19:27:08,004 [INFO] Login successful, username Mpho is displayed
+2024-08-01 19:27:08,004 [INFO] Finished login test case process
+2024-08-01 19:29:41,659 [INFO] Starting login with invalid test
+2024-08-12 16:39:38,583 [INFO] Starting signup test
+2024-08-12 16:39:40,927 [INFO] Starting login test
+2024-08-12 16:39:41,710 [INFO] Login successful, username Mpho is displayed
+2024-08-12 16:39:41,710 [INFO] Finished login test case process
+2024-08-12 16:39:41,813 [INFO] Starting login with invalid test
+2024-08-12 16:39:42,778 [INFO] Login unsuccessful, alert is displayed
+2024-08-12 16:39:43,289 [INFO] Finished login test case process
+2024-08-12 16:39:45,293 [INFO] Starting category test
+2024-08-12 16:39:52,199 [INFO] Added item to cart alert received
+2024-08-12 16:39:52,200 [INFO] Finished cart and category test case process
+2024-08-12 16:39:54,204 [INFO] Starting cartegory test
+2024-08-12 16:39:56,492 [INFO] Item Available in cart
+2024-08-12 16:39:56,496 [INFO] Starting order test
+2024-08-12 16:39:59,107 [INFO] User order sucessful
+2024-08-12 16:39:59,108 [INFO] Finished order  test case process
